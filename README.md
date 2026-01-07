@@ -12,7 +12,6 @@ A robust, multi-threaded Python application designed to bridge the gap between *
 
 | 🖥️ Modern Dark Interface (CustomTkinter) | 🏛️ Classic Lightweight UI (Tkinter) |
 | :---: | :---: |
-| ![Modern GUI](https://via.placeholder.com/400x300?text=Upload+Modern+Screenshot+Here) | ![Simple GUI](https://via.placeholder.com/400x300?text=Upload+Simple+Screenshot+Here) |
 | *Sleek, responsive, and timestamped.* | *Fast, native, and lightweight.* |
 
 ---
